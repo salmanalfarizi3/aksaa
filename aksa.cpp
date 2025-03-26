@@ -60,5 +60,5 @@ int main() {
     input();
     insertionSort();
     display();
-    return 0;
+    return  0;
 }
